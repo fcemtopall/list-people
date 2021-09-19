@@ -14,7 +14,7 @@
 
 | View |
 | ------------ |
-| <img src="https://drive.google.com/file/d/192TQWqIEeqWb2065izIvstYx5qUYzMCc/view?usp=sharing" width="350" height="622" /> | 
+| <img src="https://media.giphy.com/media/lppuq0MMF19L4mcuNw/giphy.gif?cid=790b7611f483a41f893e2d1087833d0aab0b60537cc592dd&rid=giphy.gif&ct=g" width="350" height="622" /> | 
 
 
 
