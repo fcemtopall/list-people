@@ -7,14 +7,14 @@
 - Android 
 - Mvvm
 - Databinding
-- RecyclerView
+- Pagination
 
 
 ## View
 
 | View |
 | ------------ |
-|  <img src="/view.gif" width="350" height="622" /> | 
+| <img src="https://drive.google.com/file/d/192TQWqIEeqWb2065izIvstYx5qUYzMCc/view?usp=sharing" width="350" height="622" /> | 
 
 
 
