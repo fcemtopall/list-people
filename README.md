@@ -10,9 +10,11 @@
 - RecyclerView
 
 
-##View
+## View
 
-
+| View |
+| ------------ |
+|  <img src="/view.gif" width="350" height="622" /> | 
 
 
 
